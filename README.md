@@ -50,9 +50,9 @@ run the program functions
 
 👤 **Alfred Bisimwa**
 
-- GitHub: [Alfred Bisimwa](https://github.com/Alfredbis29)
-- Twitter: [devMo7amed](https://twitter.com/AlfredBisimwa1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alfred-bisimwa/)
+- GitHub: [[@githubhandle](https://github.com/ekenecf)
+- Twitter: @twitterhandle](https://twitter.com/ekene070)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ekene-nwachukwu-1b9024153/)
 
 ## 🤝 Contributing
 

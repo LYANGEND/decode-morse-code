@@ -44,9 +44,9 @@ run the program functions
 
 👤 **Mohammed Salah**
 
-- GitHub: [Mo7amedSMahdi](https://github.com/Mo7amedSMahdi)
-- Twitter: [devMo7amed](https://twitter.com/devMo7amed)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/Mo7amedSMahdi/)
+- GitHub: [@githubhandle](https://github.com/LYANGEND)
+- Twitter:  [@twitterhandle](https://twitter.com/david_lyangenda)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/davidlyangenda/)
 
 👤 **Alfred Bisimwa**
 

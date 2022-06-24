@@ -42,13 +42,13 @@ run the program functions
 
 👤 **Author1**
 
-👤 **Mohammed Salah**
+👤 **David Lyangenda**
 
 - GitHub: [@githubhandle](https://github.com/LYANGEND)
 - Twitter:  [@twitterhandle](https://twitter.com/david_lyangenda)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/davidlyangenda/)
 
-👤 **Alfred Bisimwa**
+👤 **Ekene Emeka**
 
 - GitHub: [[@githubhandle](https://github.com/ekenecf)
 - Twitter: @twitterhandle](https://twitter.com/ekene070)
